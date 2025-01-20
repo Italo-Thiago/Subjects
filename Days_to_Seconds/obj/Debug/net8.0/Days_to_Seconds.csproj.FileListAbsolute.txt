@@ -1,0 +1,15 @@
+/mnt/c/dev/Subjects/Days_to_Seconds/bin/Debug/net8.0/Days_to_Seconds
+/mnt/c/dev/Subjects/Days_to_Seconds/bin/Debug/net8.0/Days_to_Seconds.deps.json
+/mnt/c/dev/Subjects/Days_to_Seconds/bin/Debug/net8.0/Days_to_Seconds.runtimeconfig.json
+/mnt/c/dev/Subjects/Days_to_Seconds/bin/Debug/net8.0/Days_to_Seconds.dll
+/mnt/c/dev/Subjects/Days_to_Seconds/bin/Debug/net8.0/Days_to_Seconds.pdb
+/mnt/c/dev/Subjects/Days_to_Seconds/obj/Debug/net8.0/Days_to_Seconds.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/dev/Subjects/Days_to_Seconds/obj/Debug/net8.0/Days_to_Seconds.AssemblyInfoInputs.cache
+/mnt/c/dev/Subjects/Days_to_Seconds/obj/Debug/net8.0/Days_to_Seconds.AssemblyInfo.cs
+/mnt/c/dev/Subjects/Days_to_Seconds/obj/Debug/net8.0/Days_to_Seconds.csproj.CoreCompileInputs.cache
+/mnt/c/dev/Subjects/Days_to_Seconds/obj/Debug/net8.0/Days_to_Seconds.sourcelink.json
+/mnt/c/dev/Subjects/Days_to_Seconds/obj/Debug/net8.0/Days_to_Seconds.dll
+/mnt/c/dev/Subjects/Days_to_Seconds/obj/Debug/net8.0/refint/Days_to_Seconds.dll
+/mnt/c/dev/Subjects/Days_to_Seconds/obj/Debug/net8.0/Days_to_Seconds.pdb
+/mnt/c/dev/Subjects/Days_to_Seconds/obj/Debug/net8.0/Days_to_Seconds.genruntimeconfig.cache
+/mnt/c/dev/Subjects/Days_to_Seconds/obj/Debug/net8.0/ref/Days_to_Seconds.dll
