@@ -1,0 +1,15 @@
+/mnt/c/dev/Subjects/Basic/CSharp/Discount/bin/Debug/net8.0/Discount
+/mnt/c/dev/Subjects/Basic/CSharp/Discount/bin/Debug/net8.0/Discount.deps.json
+/mnt/c/dev/Subjects/Basic/CSharp/Discount/bin/Debug/net8.0/Discount.runtimeconfig.json
+/mnt/c/dev/Subjects/Basic/CSharp/Discount/bin/Debug/net8.0/Discount.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Discount/bin/Debug/net8.0/Discount.pdb
+/mnt/c/dev/Subjects/Basic/CSharp/Discount/obj/Debug/net8.0/Discount.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/dev/Subjects/Basic/CSharp/Discount/obj/Debug/net8.0/Discount.AssemblyInfoInputs.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Discount/obj/Debug/net8.0/Discount.AssemblyInfo.cs
+/mnt/c/dev/Subjects/Basic/CSharp/Discount/obj/Debug/net8.0/Discount.csproj.CoreCompileInputs.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Discount/obj/Debug/net8.0/Discount.sourcelink.json
+/mnt/c/dev/Subjects/Basic/CSharp/Discount/obj/Debug/net8.0/Discount.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Discount/obj/Debug/net8.0/refint/Discount.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Discount/obj/Debug/net8.0/Discount.pdb
+/mnt/c/dev/Subjects/Basic/CSharp/Discount/obj/Debug/net8.0/Discount.genruntimeconfig.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Discount/obj/Debug/net8.0/ref/Discount.dll
