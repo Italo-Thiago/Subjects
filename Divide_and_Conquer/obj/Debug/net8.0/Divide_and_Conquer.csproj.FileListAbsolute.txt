@@ -1,0 +1,14 @@
+/mnt/c/dev/Subjects/Divide_and_Conquer/bin/Debug/net8.0/Divide_and_Conquer
+/mnt/c/dev/Subjects/Divide_and_Conquer/bin/Debug/net8.0/Divide_and_Conquer.deps.json
+/mnt/c/dev/Subjects/Divide_and_Conquer/bin/Debug/net8.0/Divide_and_Conquer.runtimeconfig.json
+/mnt/c/dev/Subjects/Divide_and_Conquer/bin/Debug/net8.0/Divide_and_Conquer.dll
+/mnt/c/dev/Subjects/Divide_and_Conquer/bin/Debug/net8.0/Divide_and_Conquer.pdb
+/mnt/c/dev/Subjects/Divide_and_Conquer/obj/Debug/net8.0/Divide_and_Conquer.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/dev/Subjects/Divide_and_Conquer/obj/Debug/net8.0/Divide_and_Conquer.AssemblyInfoInputs.cache
+/mnt/c/dev/Subjects/Divide_and_Conquer/obj/Debug/net8.0/Divide_and_Conquer.AssemblyInfo.cs
+/mnt/c/dev/Subjects/Divide_and_Conquer/obj/Debug/net8.0/Divide_and_Conquer.csproj.CoreCompileInputs.cache
+/mnt/c/dev/Subjects/Divide_and_Conquer/obj/Debug/net8.0/Divide_and_Conquer.dll
+/mnt/c/dev/Subjects/Divide_and_Conquer/obj/Debug/net8.0/refint/Divide_and_Conquer.dll
+/mnt/c/dev/Subjects/Divide_and_Conquer/obj/Debug/net8.0/Divide_and_Conquer.pdb
+/mnt/c/dev/Subjects/Divide_and_Conquer/obj/Debug/net8.0/Divide_and_Conquer.genruntimeconfig.cache
+/mnt/c/dev/Subjects/Divide_and_Conquer/obj/Debug/net8.0/ref/Divide_and_Conquer.dll

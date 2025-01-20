@@ -1,0 +1,14 @@
+/mnt/c/dev/Subjects/All_Permutations/bin/Debug/net8.0/All_Permutations
+/mnt/c/dev/Subjects/All_Permutations/bin/Debug/net8.0/All_Permutations.deps.json
+/mnt/c/dev/Subjects/All_Permutations/bin/Debug/net8.0/All_Permutations.runtimeconfig.json
+/mnt/c/dev/Subjects/All_Permutations/bin/Debug/net8.0/All_Permutations.dll
+/mnt/c/dev/Subjects/All_Permutations/bin/Debug/net8.0/All_Permutations.pdb
+/mnt/c/dev/Subjects/All_Permutations/obj/Debug/net8.0/All_Permutations.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/dev/Subjects/All_Permutations/obj/Debug/net8.0/All_Permutations.AssemblyInfoInputs.cache
+/mnt/c/dev/Subjects/All_Permutations/obj/Debug/net8.0/All_Permutations.AssemblyInfo.cs
+/mnt/c/dev/Subjects/All_Permutations/obj/Debug/net8.0/All_Permutations.csproj.CoreCompileInputs.cache
+/mnt/c/dev/Subjects/All_Permutations/obj/Debug/net8.0/All_Permutations.dll
+/mnt/c/dev/Subjects/All_Permutations/obj/Debug/net8.0/refint/All_Permutations.dll
+/mnt/c/dev/Subjects/All_Permutations/obj/Debug/net8.0/All_Permutations.pdb
+/mnt/c/dev/Subjects/All_Permutations/obj/Debug/net8.0/All_Permutations.genruntimeconfig.cache
+/mnt/c/dev/Subjects/All_Permutations/obj/Debug/net8.0/ref/All_Permutations.dll

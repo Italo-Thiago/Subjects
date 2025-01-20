@@ -1,0 +1,14 @@
+/mnt/c/dev/Subjects/Linear_Search/bin/Debug/net8.0/Linear_Search
+/mnt/c/dev/Subjects/Linear_Search/bin/Debug/net8.0/Linear_Search.deps.json
+/mnt/c/dev/Subjects/Linear_Search/bin/Debug/net8.0/Linear_Search.runtimeconfig.json
+/mnt/c/dev/Subjects/Linear_Search/bin/Debug/net8.0/Linear_Search.dll
+/mnt/c/dev/Subjects/Linear_Search/bin/Debug/net8.0/Linear_Search.pdb
+/mnt/c/dev/Subjects/Linear_Search/obj/Debug/net8.0/Linear_Search.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/dev/Subjects/Linear_Search/obj/Debug/net8.0/Linear_Search.AssemblyInfoInputs.cache
+/mnt/c/dev/Subjects/Linear_Search/obj/Debug/net8.0/Linear_Search.AssemblyInfo.cs
+/mnt/c/dev/Subjects/Linear_Search/obj/Debug/net8.0/Linear_Search.csproj.CoreCompileInputs.cache
+/mnt/c/dev/Subjects/Linear_Search/obj/Debug/net8.0/Linear_Search.dll
+/mnt/c/dev/Subjects/Linear_Search/obj/Debug/net8.0/refint/Linear_Search.dll
+/mnt/c/dev/Subjects/Linear_Search/obj/Debug/net8.0/Linear_Search.pdb
+/mnt/c/dev/Subjects/Linear_Search/obj/Debug/net8.0/Linear_Search.genruntimeconfig.cache
+/mnt/c/dev/Subjects/Linear_Search/obj/Debug/net8.0/ref/Linear_Search.dll

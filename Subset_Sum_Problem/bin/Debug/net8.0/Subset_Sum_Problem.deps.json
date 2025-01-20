@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Subset_Sum_Problem/1.0.0": {
+        "runtime": {
+          "Subset_Sum_Problem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Subset_Sum_Problem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

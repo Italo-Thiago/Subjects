@@ -1,0 +1,14 @@
+/mnt/c/dev/Subjects/Recursion/bin/Debug/net8.0/Recursion
+/mnt/c/dev/Subjects/Recursion/bin/Debug/net8.0/Recursion.deps.json
+/mnt/c/dev/Subjects/Recursion/bin/Debug/net8.0/Recursion.runtimeconfig.json
+/mnt/c/dev/Subjects/Recursion/bin/Debug/net8.0/Recursion.dll
+/mnt/c/dev/Subjects/Recursion/bin/Debug/net8.0/Recursion.pdb
+/mnt/c/dev/Subjects/Recursion/obj/Debug/net8.0/Recursion.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/dev/Subjects/Recursion/obj/Debug/net8.0/Recursion.AssemblyInfoInputs.cache
+/mnt/c/dev/Subjects/Recursion/obj/Debug/net8.0/Recursion.AssemblyInfo.cs
+/mnt/c/dev/Subjects/Recursion/obj/Debug/net8.0/Recursion.csproj.CoreCompileInputs.cache
+/mnt/c/dev/Subjects/Recursion/obj/Debug/net8.0/Recursion.dll
+/mnt/c/dev/Subjects/Recursion/obj/Debug/net8.0/refint/Recursion.dll
+/mnt/c/dev/Subjects/Recursion/obj/Debug/net8.0/Recursion.pdb
+/mnt/c/dev/Subjects/Recursion/obj/Debug/net8.0/Recursion.genruntimeconfig.cache
+/mnt/c/dev/Subjects/Recursion/obj/Debug/net8.0/ref/Recursion.dll

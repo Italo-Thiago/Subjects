@@ -1,0 +1,14 @@
+/mnt/c/dev/Subjects/Subset_Sum_Problem/bin/Debug/net8.0/Subset_Sum_Problem
+/mnt/c/dev/Subjects/Subset_Sum_Problem/bin/Debug/net8.0/Subset_Sum_Problem.deps.json
+/mnt/c/dev/Subjects/Subset_Sum_Problem/bin/Debug/net8.0/Subset_Sum_Problem.runtimeconfig.json
+/mnt/c/dev/Subjects/Subset_Sum_Problem/bin/Debug/net8.0/Subset_Sum_Problem.dll
+/mnt/c/dev/Subjects/Subset_Sum_Problem/bin/Debug/net8.0/Subset_Sum_Problem.pdb
+/mnt/c/dev/Subjects/Subset_Sum_Problem/obj/Debug/net8.0/Subset_Sum_Problem.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/dev/Subjects/Subset_Sum_Problem/obj/Debug/net8.0/Subset_Sum_Problem.AssemblyInfoInputs.cache
+/mnt/c/dev/Subjects/Subset_Sum_Problem/obj/Debug/net8.0/Subset_Sum_Problem.AssemblyInfo.cs
+/mnt/c/dev/Subjects/Subset_Sum_Problem/obj/Debug/net8.0/Subset_Sum_Problem.csproj.CoreCompileInputs.cache
+/mnt/c/dev/Subjects/Subset_Sum_Problem/obj/Debug/net8.0/Subset_Sum_Problem.dll
+/mnt/c/dev/Subjects/Subset_Sum_Problem/obj/Debug/net8.0/refint/Subset_Sum_Problem.dll
+/mnt/c/dev/Subjects/Subset_Sum_Problem/obj/Debug/net8.0/Subset_Sum_Problem.pdb
+/mnt/c/dev/Subjects/Subset_Sum_Problem/obj/Debug/net8.0/Subset_Sum_Problem.genruntimeconfig.cache
+/mnt/c/dev/Subjects/Subset_Sum_Problem/obj/Debug/net8.0/ref/Subset_Sum_Problem.dll

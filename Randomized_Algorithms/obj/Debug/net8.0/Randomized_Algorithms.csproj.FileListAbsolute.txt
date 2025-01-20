@@ -1,0 +1,14 @@
+/mnt/c/dev/Subjects/Randomized_Algorithms/bin/Debug/net8.0/Randomized_Algorithms
+/mnt/c/dev/Subjects/Randomized_Algorithms/bin/Debug/net8.0/Randomized_Algorithms.deps.json
+/mnt/c/dev/Subjects/Randomized_Algorithms/bin/Debug/net8.0/Randomized_Algorithms.runtimeconfig.json
+/mnt/c/dev/Subjects/Randomized_Algorithms/bin/Debug/net8.0/Randomized_Algorithms.dll
+/mnt/c/dev/Subjects/Randomized_Algorithms/bin/Debug/net8.0/Randomized_Algorithms.pdb
+/mnt/c/dev/Subjects/Randomized_Algorithms/obj/Debug/net8.0/Randomized_Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/dev/Subjects/Randomized_Algorithms/obj/Debug/net8.0/Randomized_Algorithms.AssemblyInfoInputs.cache
+/mnt/c/dev/Subjects/Randomized_Algorithms/obj/Debug/net8.0/Randomized_Algorithms.AssemblyInfo.cs
+/mnt/c/dev/Subjects/Randomized_Algorithms/obj/Debug/net8.0/Randomized_Algorithms.csproj.CoreCompileInputs.cache
+/mnt/c/dev/Subjects/Randomized_Algorithms/obj/Debug/net8.0/Randomized_Algorithms.dll
+/mnt/c/dev/Subjects/Randomized_Algorithms/obj/Debug/net8.0/refint/Randomized_Algorithms.dll
+/mnt/c/dev/Subjects/Randomized_Algorithms/obj/Debug/net8.0/Randomized_Algorithms.pdb
+/mnt/c/dev/Subjects/Randomized_Algorithms/obj/Debug/net8.0/Randomized_Algorithms.genruntimeconfig.cache
+/mnt/c/dev/Subjects/Randomized_Algorithms/obj/Debug/net8.0/ref/Randomized_Algorithms.dll

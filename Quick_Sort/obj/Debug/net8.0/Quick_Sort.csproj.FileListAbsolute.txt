@@ -1,0 +1,14 @@
+/mnt/c/dev/Subjects/Quick_Sort/bin/Debug/net8.0/Quick_Sort
+/mnt/c/dev/Subjects/Quick_Sort/bin/Debug/net8.0/Quick_Sort.deps.json
+/mnt/c/dev/Subjects/Quick_Sort/bin/Debug/net8.0/Quick_Sort.runtimeconfig.json
+/mnt/c/dev/Subjects/Quick_Sort/bin/Debug/net8.0/Quick_Sort.dll
+/mnt/c/dev/Subjects/Quick_Sort/bin/Debug/net8.0/Quick_Sort.pdb
+/mnt/c/dev/Subjects/Quick_Sort/obj/Debug/net8.0/Quick_Sort.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/dev/Subjects/Quick_Sort/obj/Debug/net8.0/Quick_Sort.AssemblyInfoInputs.cache
+/mnt/c/dev/Subjects/Quick_Sort/obj/Debug/net8.0/Quick_Sort.AssemblyInfo.cs
+/mnt/c/dev/Subjects/Quick_Sort/obj/Debug/net8.0/Quick_Sort.csproj.CoreCompileInputs.cache
+/mnt/c/dev/Subjects/Quick_Sort/obj/Debug/net8.0/Quick_Sort.dll
+/mnt/c/dev/Subjects/Quick_Sort/obj/Debug/net8.0/refint/Quick_Sort.dll
+/mnt/c/dev/Subjects/Quick_Sort/obj/Debug/net8.0/Quick_Sort.pdb
+/mnt/c/dev/Subjects/Quick_Sort/obj/Debug/net8.0/Quick_Sort.genruntimeconfig.cache
+/mnt/c/dev/Subjects/Quick_Sort/obj/Debug/net8.0/ref/Quick_Sort.dll
