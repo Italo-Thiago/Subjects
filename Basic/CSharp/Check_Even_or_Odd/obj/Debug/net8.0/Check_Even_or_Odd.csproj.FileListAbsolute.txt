@@ -1,0 +1,14 @@
+c:\dev\Subjects\Check_Even_or_Odd\bin\Debug\net8.0\Check_Even_or_Odd.exe
+c:\dev\Subjects\Check_Even_or_Odd\bin\Debug\net8.0\Check_Even_or_Odd.deps.json
+c:\dev\Subjects\Check_Even_or_Odd\bin\Debug\net8.0\Check_Even_or_Odd.runtimeconfig.json
+c:\dev\Subjects\Check_Even_or_Odd\bin\Debug\net8.0\Check_Even_or_Odd.dll
+c:\dev\Subjects\Check_Even_or_Odd\bin\Debug\net8.0\Check_Even_or_Odd.pdb
+c:\dev\Subjects\Check_Even_or_Odd\obj\Debug\net8.0\Check_Even_or_Odd.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\Subjects\Check_Even_or_Odd\obj\Debug\net8.0\Check_Even_or_Odd.AssemblyInfoInputs.cache
+c:\dev\Subjects\Check_Even_or_Odd\obj\Debug\net8.0\Check_Even_or_Odd.AssemblyInfo.cs
+c:\dev\Subjects\Check_Even_or_Odd\obj\Debug\net8.0\Check_Even_or_Odd.csproj.CoreCompileInputs.cache
+c:\dev\Subjects\Check_Even_or_Odd\obj\Debug\net8.0\Check_Even_or_Odd.dll
+c:\dev\Subjects\Check_Even_or_Odd\obj\Debug\net8.0\refint\Check_Even_or_Odd.dll
+c:\dev\Subjects\Check_Even_or_Odd\obj\Debug\net8.0\Check_Even_or_Odd.pdb
+c:\dev\Subjects\Check_Even_or_Odd\obj\Debug\net8.0\Check_Even_or_Odd.genruntimeconfig.cache
+c:\dev\Subjects\Check_Even_or_Odd\obj\Debug\net8.0\ref\Check_Even_or_Odd.dll
