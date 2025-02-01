@@ -1,9 +1,16 @@
 from abc import ABC, abstractmethod
 
 class Animal(ABC):
+    @property
     @abstractmethod
-    def make_sound(self):
-        pass # Abstract method, to be implemented by subclasses
-
-    def move(self):
-        return "Moving" # Concrete method with implementation
+    def species(self):
+        pass # Abstract property, must be implemented by subclasses
+    
+class Dog(Animal):
+    @property
+    def species(self):
+        return "Canine"
+    
+# instantiate the concrete subclass
+dog = Dog()
+print(dog.species)
