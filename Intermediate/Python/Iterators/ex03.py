@@ -7,4 +7,4 @@ def add(x, y):
 a = [1, 2, 3, 4, 5]
 res = reduce(add, a)
 
-print(res) # Output: 15
+print(res) # Output:
