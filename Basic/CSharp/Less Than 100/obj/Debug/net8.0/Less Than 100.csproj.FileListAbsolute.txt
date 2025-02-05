@@ -1,0 +1,15 @@
+/mnt/c/dev/Subjects/Basic/CSharp/Less Than 100/obj/Debug/net8.0/Less Than 100.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/dev/Subjects/Basic/CSharp/Less Than 100/obj/Debug/net8.0/Less Than 100.AssemblyInfoInputs.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Less Than 100/obj/Debug/net8.0/Less Than 100.AssemblyInfo.cs
+/mnt/c/dev/Subjects/Basic/CSharp/Less Than 100/obj/Debug/net8.0/Less Than 100.csproj.CoreCompileInputs.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Less Than 100/obj/Debug/net8.0/Less Than 100.sourcelink.json
+/mnt/c/dev/Subjects/Basic/CSharp/Less Than 100/bin/Debug/net8.0/Less Than 100
+/mnt/c/dev/Subjects/Basic/CSharp/Less Than 100/bin/Debug/net8.0/Less Than 100.deps.json
+/mnt/c/dev/Subjects/Basic/CSharp/Less Than 100/bin/Debug/net8.0/Less Than 100.runtimeconfig.json
+/mnt/c/dev/Subjects/Basic/CSharp/Less Than 100/bin/Debug/net8.0/Less Than 100.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Less Than 100/bin/Debug/net8.0/Less Than 100.pdb
+/mnt/c/dev/Subjects/Basic/CSharp/Less Than 100/obj/Debug/net8.0/Less Than 100.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Less Than 100/obj/Debug/net8.0/refint/Less Than 100.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Less Than 100/obj/Debug/net8.0/Less Than 100.pdb
+/mnt/c/dev/Subjects/Basic/CSharp/Less Than 100/obj/Debug/net8.0/Less Than 100.genruntimeconfig.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Less Than 100/obj/Debug/net8.0/ref/Less Than 100.dll

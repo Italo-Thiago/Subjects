@@ -1,0 +1,15 @@
+/mnt/c/dev/Subjects/Basic/CSharp/Convert Minutes into Seconds/obj/Debug/net8.0/Convert Minutes into Seconds.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/dev/Subjects/Basic/CSharp/Convert Minutes into Seconds/obj/Debug/net8.0/Convert Minutes into Seconds.AssemblyInfoInputs.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Convert Minutes into Seconds/obj/Debug/net8.0/Convert Minutes into Seconds.AssemblyInfo.cs
+/mnt/c/dev/Subjects/Basic/CSharp/Convert Minutes into Seconds/obj/Debug/net8.0/Convert Minutes into Seconds.csproj.CoreCompileInputs.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Convert Minutes into Seconds/obj/Debug/net8.0/Convert Minutes into Seconds.sourcelink.json
+/mnt/c/dev/Subjects/Basic/CSharp/Convert Minutes into Seconds/bin/Debug/net8.0/Convert Minutes into Seconds
+/mnt/c/dev/Subjects/Basic/CSharp/Convert Minutes into Seconds/bin/Debug/net8.0/Convert Minutes into Seconds.deps.json
+/mnt/c/dev/Subjects/Basic/CSharp/Convert Minutes into Seconds/bin/Debug/net8.0/Convert Minutes into Seconds.runtimeconfig.json
+/mnt/c/dev/Subjects/Basic/CSharp/Convert Minutes into Seconds/bin/Debug/net8.0/Convert Minutes into Seconds.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Convert Minutes into Seconds/bin/Debug/net8.0/Convert Minutes into Seconds.pdb
+/mnt/c/dev/Subjects/Basic/CSharp/Convert Minutes into Seconds/obj/Debug/net8.0/Convert Minutes into Seconds.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Convert Minutes into Seconds/obj/Debug/net8.0/refint/Convert Minutes into Seconds.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Convert Minutes into Seconds/obj/Debug/net8.0/Convert Minutes into Seconds.pdb
+/mnt/c/dev/Subjects/Basic/CSharp/Convert Minutes into Seconds/obj/Debug/net8.0/Convert Minutes into Seconds.genruntimeconfig.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Convert Minutes into Seconds/obj/Debug/net8.0/ref/Convert Minutes into Seconds.dll

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basic", "Basic", "{9966CEB4-9FCE-4A26-8129-CD8A8C15A3A6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp", "CSharp", "{B87A5803-D865-4AE0-ACF3-D766C72AEC50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smaller String Number", "Basic\CSharp\Smaller String Number\Smaller String Number.csproj", "{77A9DE5A-B0BF-47B6-BEF8-4FBD89817AA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77A9DE5A-B0BF-47B6-BEF8-4FBD89817AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A9DE5A-B0BF-47B6-BEF8-4FBD89817AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A9DE5A-B0BF-47B6-BEF8-4FBD89817AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A9DE5A-B0BF-47B6-BEF8-4FBD89817AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B87A5803-D865-4AE0-ACF3-D766C72AEC50} = {9966CEB4-9FCE-4A26-8129-CD8A8C15A3A6}
+		{77A9DE5A-B0BF-47B6-BEF8-4FBD89817AA2} = {B87A5803-D865-4AE0-ACF3-D766C72AEC50}
+	EndGlobalSection
+EndGlobal

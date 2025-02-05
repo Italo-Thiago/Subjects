@@ -1,0 +1,15 @@
+/mnt/c/dev/Subjects/Basic/CSharp/Return Something to Me!/obj/Debug/net8.0/Return Something to Me!.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/dev/Subjects/Basic/CSharp/Return Something to Me!/obj/Debug/net8.0/Return Something to Me!.AssemblyInfoInputs.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Return Something to Me!/obj/Debug/net8.0/Return Something to Me!.AssemblyInfo.cs
+/mnt/c/dev/Subjects/Basic/CSharp/Return Something to Me!/obj/Debug/net8.0/Return Something to Me!.csproj.CoreCompileInputs.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Return Something to Me!/obj/Debug/net8.0/Return Something to Me!.sourcelink.json
+/mnt/c/dev/Subjects/Basic/CSharp/Return Something to Me!/bin/Debug/net8.0/Return Something to Me!
+/mnt/c/dev/Subjects/Basic/CSharp/Return Something to Me!/bin/Debug/net8.0/Return Something to Me!.deps.json
+/mnt/c/dev/Subjects/Basic/CSharp/Return Something to Me!/bin/Debug/net8.0/Return Something to Me!.runtimeconfig.json
+/mnt/c/dev/Subjects/Basic/CSharp/Return Something to Me!/bin/Debug/net8.0/Return Something to Me!.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Return Something to Me!/bin/Debug/net8.0/Return Something to Me!.pdb
+/mnt/c/dev/Subjects/Basic/CSharp/Return Something to Me!/obj/Debug/net8.0/Return Something to Me!.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Return Something to Me!/obj/Debug/net8.0/refint/Return Something to Me!.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Return Something to Me!/obj/Debug/net8.0/Return Something to Me!.pdb
+/mnt/c/dev/Subjects/Basic/CSharp/Return Something to Me!/obj/Debug/net8.0/Return Something to Me!.genruntimeconfig.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Return Something to Me!/obj/Debug/net8.0/ref/Return Something to Me!.dll

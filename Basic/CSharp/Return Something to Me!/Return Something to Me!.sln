@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basic", "Basic", "{2C932441-08D0-4A89-8CF7-6BC264F171CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp", "CSharp", "{61AE3E98-AD39-4422-9A75-DEE5315AC954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return Something to Me!", "Basic\CSharp\Return Something to Me!\Return Something to Me!.csproj", "{45102E9B-AE54-40EA-B7D5-11244D33F381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45102E9B-AE54-40EA-B7D5-11244D33F381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45102E9B-AE54-40EA-B7D5-11244D33F381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45102E9B-AE54-40EA-B7D5-11244D33F381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45102E9B-AE54-40EA-B7D5-11244D33F381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{61AE3E98-AD39-4422-9A75-DEE5315AC954} = {2C932441-08D0-4A89-8CF7-6BC264F171CF}
+		{45102E9B-AE54-40EA-B7D5-11244D33F381} = {61AE3E98-AD39-4422-9A75-DEE5315AC954}
+	EndGlobalSection
+EndGlobal

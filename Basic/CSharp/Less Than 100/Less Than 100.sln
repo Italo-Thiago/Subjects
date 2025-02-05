@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basic", "Basic", "{3547E818-F3D6-4F4C-AECE-7713045124A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp", "CSharp", "{F7A4083A-8A18-4111-A2FF-33DEAD1088C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less Than 100", "Basic\CSharp\Less Than 100\Less Than 100.csproj", "{80C42826-E6C5-4564-A614-09C3CAF367BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80C42826-E6C5-4564-A614-09C3CAF367BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C42826-E6C5-4564-A614-09C3CAF367BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C42826-E6C5-4564-A614-09C3CAF367BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C42826-E6C5-4564-A614-09C3CAF367BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F7A4083A-8A18-4111-A2FF-33DEAD1088C5} = {3547E818-F3D6-4F4C-AECE-7713045124A1}
+		{80C42826-E6C5-4564-A614-09C3CAF367BC} = {F7A4083A-8A18-4111-A2FF-33DEAD1088C5}
+	EndGlobalSection
+EndGlobal
