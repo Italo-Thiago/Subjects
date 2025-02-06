@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Opposites Attract/1.0.0": {
+        "runtime": {
+          "Opposites Attract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opposites Attract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

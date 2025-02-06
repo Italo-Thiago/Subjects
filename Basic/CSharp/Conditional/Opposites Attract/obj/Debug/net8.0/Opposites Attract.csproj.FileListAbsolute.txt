@@ -1,0 +1,15 @@
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Opposites Attract/bin/Debug/net8.0/Opposites Attract
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Opposites Attract/bin/Debug/net8.0/Opposites Attract.deps.json
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Opposites Attract/bin/Debug/net8.0/Opposites Attract.runtimeconfig.json
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Opposites Attract/bin/Debug/net8.0/Opposites Attract.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Opposites Attract/bin/Debug/net8.0/Opposites Attract.pdb
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Opposites Attract/obj/Debug/net8.0/Opposites Attract.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Opposites Attract/obj/Debug/net8.0/Opposites Attract.AssemblyInfoInputs.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Opposites Attract/obj/Debug/net8.0/Opposites Attract.AssemblyInfo.cs
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Opposites Attract/obj/Debug/net8.0/Opposites Attract.csproj.CoreCompileInputs.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Opposites Attract/obj/Debug/net8.0/Opposites Attract.sourcelink.json
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Opposites Attract/obj/Debug/net8.0/Opposites Attract.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Opposites Attract/obj/Debug/net8.0/refint/Opposites Attract.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Opposites Attract/obj/Debug/net8.0/Opposites Attract.pdb
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Opposites Attract/obj/Debug/net8.0/Opposites Attract.genruntimeconfig.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Opposites Attract/obj/Debug/net8.0/ref/Opposites Attract.dll
