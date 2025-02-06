@@ -1,4 +1,4 @@
-﻿using StringTo; // Diretiva using deve ficar no topo
+﻿using StringTo; // Directive using must stay at the top
 
 string name = "123";
 Console.WriteLine($"Convert: {StringToNumber(name)}");
@@ -7,22 +7,18 @@ string name2 = "456";
 Console.WriteLine($"Convert: {StringToNumber2(name2)}");
 
 string name3 = "789";
-// Note que agora usamos o método através da classe Converter
 Console.WriteLine($"Convert: {Converter.StringToNumber3(name3)}");
 
-// Forma de resolver 1
-// Método
+// From 1: Method
 static int StringToNumber(string str)
 {
     return Convert.ToInt32(str);
 }
 
-// Forma de resolver 2
-// Lambda/Função anônima
+// Form 2: Lambda
 static int StringToNumber2(string str) => int.Parse(str);
 
-// Forma de resolver 3
-// Criando sua própria função dentro de uma classe no namespace
+// From 3: Own function
 namespace StringTo
 {
     public static class Converter
@@ -37,7 +33,7 @@ namespace StringTo
             int signed = source[0] == '-' ? 1 : 0;
             int? result = -signed; // prevent overflow for signed numbers
 
-            // Validação: verifica se todos os caracteres são dígitos
+            // Validation: verifies if all characters are digits
             for (int i = signed; i < source.Length; ++i)
             {
                 if (source[i] > '9' || source[i] < '0')
@@ -46,7 +42,7 @@ namespace StringTo
                 }
             }
 
-            // Conversão: soma os dígitos multiplicados pelas respectivas potências de 10
+            // Conversion: sums the digits multiplied by their respective power of 10
             for (int mult = 1, i = source.Length - 1; i >= signed; --i, mult *= 10)
             {
                 result = checked(result + ((source[i] - '0') * mult));

@@ -3,5 +3,7 @@
         "relatorio",
         "reproducao"
     ],
-    "dotnet.defaultSolution": "Smaller String Number.sln"
+    "dotnet.defaultSolution": "Counting sheep.sln",
+    "editor.tabSize": 4,
+    "editor.useTabStops": false,
 }

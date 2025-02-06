@@ -1,0 +1,15 @@
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Counting sheep/bin/Debug/net8.0/Counting sheep
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Counting sheep/bin/Debug/net8.0/Counting sheep.deps.json
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Counting sheep/bin/Debug/net8.0/Counting sheep.runtimeconfig.json
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Counting sheep/bin/Debug/net8.0/Counting sheep.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Counting sheep/bin/Debug/net8.0/Counting sheep.pdb
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Counting sheep/obj/Debug/net8.0/Counting sheep.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Counting sheep/obj/Debug/net8.0/Counting sheep.AssemblyInfoInputs.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Counting sheep/obj/Debug/net8.0/Counting sheep.AssemblyInfo.cs
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Counting sheep/obj/Debug/net8.0/Counting sheep.csproj.CoreCompileInputs.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Counting sheep/obj/Debug/net8.0/Counting sheep.sourcelink.json
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Counting sheep/obj/Debug/net8.0/Counting sheep.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Counting sheep/obj/Debug/net8.0/refint/Counting sheep.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Counting sheep/obj/Debug/net8.0/Counting sheep.pdb
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Counting sheep/obj/Debug/net8.0/Counting sheep.genruntimeconfig.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Conditional/Counting sheep/obj/Debug/net8.0/ref/Counting sheep.dll
