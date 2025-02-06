@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Convert a String to a Number!")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79bf4c8c8a662b0b8ff89cd4f183f2498780db4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+915a865b528a6eaf2d24cfa5c122fb5ddcf81531")]
 [assembly: System.Reflection.AssemblyProductAttribute("Convert a String to a Number!")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Convert a String to a Number!")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
