@@ -1,0 +1,15 @@
+/mnt/c/dev/Subjects/Basic/CSharp/String/Convert a String to a Number!/bin/Debug/net8.0/Convert a String to a Number!
+/mnt/c/dev/Subjects/Basic/CSharp/String/Convert a String to a Number!/bin/Debug/net8.0/Convert a String to a Number!.deps.json
+/mnt/c/dev/Subjects/Basic/CSharp/String/Convert a String to a Number!/bin/Debug/net8.0/Convert a String to a Number!.runtimeconfig.json
+/mnt/c/dev/Subjects/Basic/CSharp/String/Convert a String to a Number!/bin/Debug/net8.0/Convert a String to a Number!.dll
+/mnt/c/dev/Subjects/Basic/CSharp/String/Convert a String to a Number!/bin/Debug/net8.0/Convert a String to a Number!.pdb
+/mnt/c/dev/Subjects/Basic/CSharp/String/Convert a String to a Number!/obj/Debug/net8.0/Convert a String to a Number!.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/dev/Subjects/Basic/CSharp/String/Convert a String to a Number!/obj/Debug/net8.0/Convert a String to a Number!.AssemblyInfoInputs.cache
+/mnt/c/dev/Subjects/Basic/CSharp/String/Convert a String to a Number!/obj/Debug/net8.0/Convert a String to a Number!.AssemblyInfo.cs
+/mnt/c/dev/Subjects/Basic/CSharp/String/Convert a String to a Number!/obj/Debug/net8.0/Convert a String to a Number!.csproj.CoreCompileInputs.cache
+/mnt/c/dev/Subjects/Basic/CSharp/String/Convert a String to a Number!/obj/Debug/net8.0/Convert a String to a Number!.sourcelink.json
+/mnt/c/dev/Subjects/Basic/CSharp/String/Convert a String to a Number!/obj/Debug/net8.0/Convert a String to a Number!.dll
+/mnt/c/dev/Subjects/Basic/CSharp/String/Convert a String to a Number!/obj/Debug/net8.0/refint/Convert a String to a Number!.dll
+/mnt/c/dev/Subjects/Basic/CSharp/String/Convert a String to a Number!/obj/Debug/net8.0/Convert a String to a Number!.pdb
+/mnt/c/dev/Subjects/Basic/CSharp/String/Convert a String to a Number!/obj/Debug/net8.0/Convert a String to a Number!.genruntimeconfig.cache
+/mnt/c/dev/Subjects/Basic/CSharp/String/Convert a String to a Number!/obj/Debug/net8.0/ref/Convert a String to a Number!.dll
