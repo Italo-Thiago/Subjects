@@ -1,0 +1,15 @@
+/mnt/c/dev/Subjects/Basic/CSharp/String/Get Real Lenght/bin/Debug/net8.0/Get Real Lenght
+/mnt/c/dev/Subjects/Basic/CSharp/String/Get Real Lenght/bin/Debug/net8.0/Get Real Lenght.deps.json
+/mnt/c/dev/Subjects/Basic/CSharp/String/Get Real Lenght/bin/Debug/net8.0/Get Real Lenght.runtimeconfig.json
+/mnt/c/dev/Subjects/Basic/CSharp/String/Get Real Lenght/bin/Debug/net8.0/Get Real Lenght.dll
+/mnt/c/dev/Subjects/Basic/CSharp/String/Get Real Lenght/bin/Debug/net8.0/Get Real Lenght.pdb
+/mnt/c/dev/Subjects/Basic/CSharp/String/Get Real Lenght/obj/Debug/net8.0/Get Real Lenght.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/dev/Subjects/Basic/CSharp/String/Get Real Lenght/obj/Debug/net8.0/Get Real Lenght.AssemblyInfoInputs.cache
+/mnt/c/dev/Subjects/Basic/CSharp/String/Get Real Lenght/obj/Debug/net8.0/Get Real Lenght.AssemblyInfo.cs
+/mnt/c/dev/Subjects/Basic/CSharp/String/Get Real Lenght/obj/Debug/net8.0/Get Real Lenght.csproj.CoreCompileInputs.cache
+/mnt/c/dev/Subjects/Basic/CSharp/String/Get Real Lenght/obj/Debug/net8.0/Get Real Lenght.sourcelink.json
+/mnt/c/dev/Subjects/Basic/CSharp/String/Get Real Lenght/obj/Debug/net8.0/Get Real Lenght.dll
+/mnt/c/dev/Subjects/Basic/CSharp/String/Get Real Lenght/obj/Debug/net8.0/refint/Get Real Lenght.dll
+/mnt/c/dev/Subjects/Basic/CSharp/String/Get Real Lenght/obj/Debug/net8.0/Get Real Lenght.pdb
+/mnt/c/dev/Subjects/Basic/CSharp/String/Get Real Lenght/obj/Debug/net8.0/Get Real Lenght.genruntimeconfig.cache
+/mnt/c/dev/Subjects/Basic/CSharp/String/Get Real Lenght/obj/Debug/net8.0/ref/Get Real Lenght.dll
