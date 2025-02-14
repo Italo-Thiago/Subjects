@@ -1,9 +1,15 @@
 {
     "cSpell.words": [
+        "codigo",
+        "diaria",
+        "opcoes",
+        "preco",
         "relatorio",
-        "reproducao"
+        "reproducao",
+        "servico",
+        "servicos",
+        "Suito"
     ],
-    "dotnet.defaultSolution": "Get Real Lenght.sln",
     "editor.tabSize": 4,
     "editor.useTabStops": false,
 }
