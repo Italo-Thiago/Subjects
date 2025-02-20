@@ -1,0 +1,15 @@
+C:\dev\Subjects\Basic\CSharp\Method\staticMethod\obj\Debug\net9.0\staticMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Subjects\Basic\CSharp\Method\staticMethod\obj\Debug\net9.0\staticMethod.AssemblyInfoInputs.cache
+C:\dev\Subjects\Basic\CSharp\Method\staticMethod\obj\Debug\net9.0\staticMethod.AssemblyInfo.cs
+C:\dev\Subjects\Basic\CSharp\Method\staticMethod\obj\Debug\net9.0\staticMethod.csproj.CoreCompileInputs.cache
+C:\dev\Subjects\Basic\CSharp\Method\staticMethod\obj\Debug\net9.0\staticMethod.sourcelink.json
+C:\dev\Subjects\Basic\CSharp\Method\staticMethod\bin\Debug\net9.0\staticMethod.exe
+C:\dev\Subjects\Basic\CSharp\Method\staticMethod\bin\Debug\net9.0\staticMethod.deps.json
+C:\dev\Subjects\Basic\CSharp\Method\staticMethod\bin\Debug\net9.0\staticMethod.runtimeconfig.json
+C:\dev\Subjects\Basic\CSharp\Method\staticMethod\bin\Debug\net9.0\staticMethod.dll
+C:\dev\Subjects\Basic\CSharp\Method\staticMethod\bin\Debug\net9.0\staticMethod.pdb
+C:\dev\Subjects\Basic\CSharp\Method\staticMethod\obj\Debug\net9.0\staticMethod.dll
+C:\dev\Subjects\Basic\CSharp\Method\staticMethod\obj\Debug\net9.0\refint\staticMethod.dll
+C:\dev\Subjects\Basic\CSharp\Method\staticMethod\obj\Debug\net9.0\staticMethod.pdb
+C:\dev\Subjects\Basic\CSharp\Method\staticMethod\obj\Debug\net9.0\staticMethod.genruntimeconfig.cache
+C:\dev\Subjects\Basic\CSharp\Method\staticMethod\obj\Debug\net9.0\ref\staticMethod.dll

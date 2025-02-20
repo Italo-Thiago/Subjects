@@ -1,0 +1,15 @@
+C:\dev\Subjects\Basic\CSharp\Math\Potenciacao\Potenciacao\bin\Debug\net9.0\Potenciacao.exe
+C:\dev\Subjects\Basic\CSharp\Math\Potenciacao\Potenciacao\bin\Debug\net9.0\Potenciacao.deps.json
+C:\dev\Subjects\Basic\CSharp\Math\Potenciacao\Potenciacao\bin\Debug\net9.0\Potenciacao.runtimeconfig.json
+C:\dev\Subjects\Basic\CSharp\Math\Potenciacao\Potenciacao\bin\Debug\net9.0\Potenciacao.dll
+C:\dev\Subjects\Basic\CSharp\Math\Potenciacao\Potenciacao\bin\Debug\net9.0\Potenciacao.pdb
+C:\dev\Subjects\Basic\CSharp\Math\Potenciacao\Potenciacao\obj\Debug\net9.0\Potenciacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Subjects\Basic\CSharp\Math\Potenciacao\Potenciacao\obj\Debug\net9.0\Potenciacao.AssemblyInfoInputs.cache
+C:\dev\Subjects\Basic\CSharp\Math\Potenciacao\Potenciacao\obj\Debug\net9.0\Potenciacao.AssemblyInfo.cs
+C:\dev\Subjects\Basic\CSharp\Math\Potenciacao\Potenciacao\obj\Debug\net9.0\Potenciacao.csproj.CoreCompileInputs.cache
+C:\dev\Subjects\Basic\CSharp\Math\Potenciacao\Potenciacao\obj\Debug\net9.0\Potenciacao.sourcelink.json
+C:\dev\Subjects\Basic\CSharp\Math\Potenciacao\Potenciacao\obj\Debug\net9.0\Potenciacao.dll
+C:\dev\Subjects\Basic\CSharp\Math\Potenciacao\Potenciacao\obj\Debug\net9.0\refint\Potenciacao.dll
+C:\dev\Subjects\Basic\CSharp\Math\Potenciacao\Potenciacao\obj\Debug\net9.0\Potenciacao.pdb
+C:\dev\Subjects\Basic\CSharp\Math\Potenciacao\Potenciacao\obj\Debug\net9.0\Potenciacao.genruntimeconfig.cache
+C:\dev\Subjects\Basic\CSharp\Math\Potenciacao\Potenciacao\obj\Debug\net9.0\ref\Potenciacao.dll

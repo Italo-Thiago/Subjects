@@ -1,0 +1,15 @@
+/mnt/c/dev/Subjects/Basic/CSharp/Method/params/bin/Debug/net8.0/Method
+/mnt/c/dev/Subjects/Basic/CSharp/Method/params/bin/Debug/net8.0/Method.deps.json
+/mnt/c/dev/Subjects/Basic/CSharp/Method/params/bin/Debug/net8.0/Method.runtimeconfig.json
+/mnt/c/dev/Subjects/Basic/CSharp/Method/params/bin/Debug/net8.0/Method.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Method/params/bin/Debug/net8.0/Method.pdb
+/mnt/c/dev/Subjects/Basic/CSharp/Method/params/obj/Debug/net8.0/Method.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/dev/Subjects/Basic/CSharp/Method/params/obj/Debug/net8.0/Method.AssemblyInfoInputs.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Method/params/obj/Debug/net8.0/Method.AssemblyInfo.cs
+/mnt/c/dev/Subjects/Basic/CSharp/Method/params/obj/Debug/net8.0/Method.csproj.CoreCompileInputs.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Method/params/obj/Debug/net8.0/Method.sourcelink.json
+/mnt/c/dev/Subjects/Basic/CSharp/Method/params/obj/Debug/net8.0/Method.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Method/params/obj/Debug/net8.0/refint/Method.dll
+/mnt/c/dev/Subjects/Basic/CSharp/Method/params/obj/Debug/net8.0/Method.pdb
+/mnt/c/dev/Subjects/Basic/CSharp/Method/params/obj/Debug/net8.0/Method.genruntimeconfig.cache
+/mnt/c/dev/Subjects/Basic/CSharp/Method/params/obj/Debug/net8.0/ref/Method.dll
