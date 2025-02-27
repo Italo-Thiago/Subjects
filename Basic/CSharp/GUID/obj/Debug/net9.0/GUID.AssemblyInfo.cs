@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Potenciacao")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("GUID")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cf5598df1f663a5ae12b90af0962dfc700c931c")]
-[assembly: System.Reflection.AssemblyProductAttribute("Potenciacao")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Potenciacao")]
+[assembly: System.Reflection.AssemblyProductAttribute("GUID")]
+[assembly: System.Reflection.AssemblyTitleAttribute("GUID")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

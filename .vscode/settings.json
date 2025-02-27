@@ -2,6 +2,7 @@
     "cSpell.words": [
         "codigo",
         "diaria",
+        "genero",
         "opcoes",
         "preco",
         "relatorio",
@@ -12,4 +13,5 @@
     ],
     "editor.tabSize": 4,
     "editor.useTabStops": false,
+    "dotnet.defaultSolution": "DataType.sln",
 }

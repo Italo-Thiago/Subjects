@@ -1,0 +1,15 @@
+C:\dev\Subjects\Basic\CSharp\GUID\bin\Debug\net9.0\GUID.exe
+C:\dev\Subjects\Basic\CSharp\GUID\bin\Debug\net9.0\GUID.deps.json
+C:\dev\Subjects\Basic\CSharp\GUID\bin\Debug\net9.0\GUID.runtimeconfig.json
+C:\dev\Subjects\Basic\CSharp\GUID\bin\Debug\net9.0\GUID.dll
+C:\dev\Subjects\Basic\CSharp\GUID\bin\Debug\net9.0\GUID.pdb
+C:\dev\Subjects\Basic\CSharp\GUID\obj\Debug\net9.0\GUID.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Subjects\Basic\CSharp\GUID\obj\Debug\net9.0\GUID.AssemblyInfoInputs.cache
+C:\dev\Subjects\Basic\CSharp\GUID\obj\Debug\net9.0\GUID.AssemblyInfo.cs
+C:\dev\Subjects\Basic\CSharp\GUID\obj\Debug\net9.0\GUID.csproj.CoreCompileInputs.cache
+C:\dev\Subjects\Basic\CSharp\GUID\obj\Debug\net9.0\GUID.sourcelink.json
+C:\dev\Subjects\Basic\CSharp\GUID\obj\Debug\net9.0\GUID.dll
+C:\dev\Subjects\Basic\CSharp\GUID\obj\Debug\net9.0\refint\GUID.dll
+C:\dev\Subjects\Basic\CSharp\GUID\obj\Debug\net9.0\GUID.pdb
+C:\dev\Subjects\Basic\CSharp\GUID\obj\Debug\net9.0\GUID.genruntimeconfig.cache
+C:\dev\Subjects\Basic\CSharp\GUID\obj\Debug\net9.0\ref\GUID.dll

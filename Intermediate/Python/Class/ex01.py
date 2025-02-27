@@ -55,7 +55,6 @@ class Sistema:
 
     # def atualizar_tarefa(self):
 
-
 robo = Robo(1,"transporte", True)
 transporte = Tarefa("Dirigir carro", "Alta", "Dia todo")
 s = Sistema()
